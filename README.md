@@ -1,6 +1,5 @@
 ### Hey there 👋
 
-- 📝 I'm currently working on @TaccyMC
-- 📫 How to reach me: finn@thatsfinn.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I edit videos
+- 📝 Developing the server experience at [TaccyMC](https://github.com/TaccyMC)
+- 📌 My favourite language is currently Java
+- 🌱 I'm trying to diversify my skillset
